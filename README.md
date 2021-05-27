@@ -22,3 +22,7 @@ Display goes black for 2 - 3 mins after the MacOS Loading Bar fills up fully. I 
   16 GB DDR4 2400 CL14 RAM  
   16 GB Optane (Disabled in MacOS)  
   1 TB HDD  
+
+# Credits
+  There was this Github Page that had this EFI. I copied it from there, but now that GitHub page doesn't exist.  
+  He made this possible for me as I was getting stuck on something and couldn't go over it no matter what.
