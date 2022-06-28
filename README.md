@@ -2,12 +2,12 @@
 Hackintosh EFI files for AN515-52-593F  
 
 # EFI Versions
-  Big Sur - IDK
-  Monterey - IDK
-  Ventura DP1 - 8.1
+  Big Sur - IDK  
+  Monterey - IDK  
+  Ventura DP1 - 8.1  
 
 # Working
-  WiFi, Bluetooth, Ethernet, iGPU - Works
+  WiFi, Bluetooth, Ethernet, iGPU - Works  
   Haven't tried anything other than that.
 
 # Not Working
