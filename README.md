@@ -2,8 +2,8 @@
 Hackintosh EFI files for AN515-52-593F  
 
 # EFI Versions
-  Big Sur - IDK  
-  Monterey - IDK  
+  Big Sur - 11.6  
+  Monterey - 12.4  
   Ventura DP1 - 8.1  
 
 # Working
