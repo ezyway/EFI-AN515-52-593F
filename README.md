@@ -21,5 +21,4 @@ Hackintosh EFI files for AN515-52-593F
   1 TB HDD  
 
 # Credits
-  There was this Github Page that had this EFI. I copied it from there, but now that GitHub page doesn't exist.  
-  He made this possible for me as I was getting stuck on something and couldn't go over it no matter what.
+  Unknown GitHub Repo that had EFIs listed for AN151-52. Now it's down.  
