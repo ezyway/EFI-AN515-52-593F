@@ -5,7 +5,7 @@
   i5 - 8300H  
   GTX 1050 4GB  
   16 GB DDR4 2400 CL14 RAM  
-  512GB WD SN550
+  512GB WD SN550  
   1 TB HDD  
 
 # EFI Versions
